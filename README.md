@@ -39,10 +39,21 @@ pandas, seaborn, and matplotlib, in addition to supporting Arabic text with arab
 🔹 Key Results:
 
 📊 1. Sleep and Mood:
+
+<img width="4200" height="1500" alt="sleep_analysis" src="https://github.com/user-attachments/assets/c6f2aea8-2f07-45a2-844e-5e7f7aa9a06b" />
+
+
 The highest mood score was recorded among those who slept between 6 and 8 hours per day.
 
 📱 2. Mobile Phone Before Bed:
+
+<img width="2952" height="1756" alt="phone_impact" src="https://github.com/user-attachments/assets/86a4a94d-a18d-4cb0-b363-3cf00a31e89c" />
+
+
 The longer the phone was used before bed, the lower the mood score, especially for those who used it for more than 30 minutes.
 
 👴 3. Age and Sleep Hours:
+
+<img width="3552" height="1754" alt="age_vs_sleep" src="https://github.com/user-attachments/assets/5c80e5d7-5286-4889-8f4a-3456b9d8ca1e" />
+
 Sleep hours tend to decrease slightly with age, but 7 hours remains an important and recommended level for all ages.
